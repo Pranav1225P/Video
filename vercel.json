@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "name": "fleetflow-video-showcase",
+  "cleanUrls": true,
+  "framework": null,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
